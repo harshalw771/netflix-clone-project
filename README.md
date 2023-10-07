@@ -70,3 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ![front page-netflix](https://github.com/harshalw771/netflix-clone-project/assets/96937862/777481bc-56b7-4149-89e7-54b07ccf21e1)
 ![movies-list-page](https://github.com/harshalw771/netflix-clone-project/assets/96937862/83f99dc2-bdcc-4ad2-a17e-3dbce6795c51)
+![movies-list-page](https://github.com/harshalw771/netflix-clone-project/assets/96937862/56b14b1a-02e4-4619-a0b6-822644bcab6f)
